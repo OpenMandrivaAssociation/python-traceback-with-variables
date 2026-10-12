@@ -1,6 +1,6 @@
 Name:		python-traceback-with-variables
 Version:	2.2.1
-Release:	1
+Release:	2
 Summary:	Adds variables to python traceback. Simple, lightweight, controllable.
 License:	MIT
 Group:		Development/Python
